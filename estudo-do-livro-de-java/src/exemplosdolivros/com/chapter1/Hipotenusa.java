@@ -10,7 +10,7 @@ public class Hipotenusa {
 		// Equação para resolver a hipotenusa
 		
 		h = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
-		System.out.println(h);  // mostra o resultado na tela
+		System.out.println(h);  // mostra o resultado na tela.
 
 	}
 
